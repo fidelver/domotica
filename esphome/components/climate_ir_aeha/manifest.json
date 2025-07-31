@@ -1,8 +1,7 @@
 {
-  "name": "climate_ir_aeha",
-  "type": "cpp",
-  "codeowners": ["@fidelver"],
-  "build_platforms": ["esp8266", "esp32"],
-  "dependencies": ["remote_base", "climate"],
-  "version": "1.0.0"
+  "domain": "climate_ir_aeha",
+  "name": "Climate IR AEHA",
+  "documentation": "https://github.com/fidelver/domotica",
+  "dependencies": ["remote_base", "climate_ir"],
+  "codeowners": ["@fidelver"]
 }
