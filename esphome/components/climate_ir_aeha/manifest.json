@@ -1,8 +1,0 @@
-{
-  "name": "climate_ir_aeha",
-  "version": "1.0.0",
-  "platforms": ["esp8266", "esp32"],
-  "dependencies": ["remote_base", "climate"],
-  "codeowners": ["@fidelver"],
-  "documentation": "https://github.com/fidelver/domotica/tree/main/esphome/components/climate_ir_aeha"
-}
