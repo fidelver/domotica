@@ -1,6 +1,5 @@
 {
-  "name": "LG AEHA IR Climate",
-  "owner": "fidelver",
-  "dependencies": ["irremoteesp8266"],
-  "documentation": "https://github.com/fidelver/domotica/blob/main/esphome/components/climate_ir_aeha/README.md"
+  "name": "climate_ir_aeha",
+  "platforms": ["esp8266", "esp32"],
+  "dependencies": ["remote_base", "climate"]
 }
